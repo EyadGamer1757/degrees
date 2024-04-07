@@ -16,3 +16,5 @@ elif degree>=90 and degree<=100:
     print("Winner winner chicken dinner")
 elif degree > 100:
     print("Don't lie")
+elif degree < :
+    print("Nah,Really")
